@@ -23,7 +23,7 @@ repository               : "sudoFurina/boxuxie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pic.jpg"
+  avatar           : "/images/pic.png"
   name             : "Boxu Xie"
   # pronouns         :  example: "he/his"  
   bio              : "Medical Technology"
